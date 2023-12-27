@@ -37,10 +37,7 @@ To get started with this Flutter project, follow these steps:
 
 ## Screenshots
 
-<img src="screenshots/Simulator Screenshot - iPhone 15 Pro Max - 2023-12-27 at 01.07.09.png" alt="My Wallet" height="250px">
-<img src="screenshots/Simulator Screenshot - iPhone 15 Pro Max - 2023-12-27 at 01.07.20.png" alt="Login" height="250px">
-<img src="screenshots/Simulator Screenshot - iPhone 15 Pro Max - 2023-12-27 at 01.07.33.png" alt="Login With Error" height="250px">
-<img src="screenshots/Simulator Screenshot - iPhone 15 Pro Max - 2023-12-27 at 01.07.40.png" alt="Setup" height="250px">
+<img src="screenshots/Simulator Screenshot - iPhone 15 Pro Max - 2023-12-27 at 01.07.09.png" alt="My Wallet" height="250px"><img src="screenshots/Simulator Screenshot - iPhone 15 Pro Max - 2023-12-27 at 01.07.20.png" alt="Login" height="250px"><img src="screenshots/Simulator Screenshot - iPhone 15 Pro Max - 2023-12-27 at 01.07.33.png" alt="Login With Error" height="250px"><img src="screenshots/Simulator Screenshot - iPhone 15 Pro Max - 2023-12-27 at 01.07.40.png" alt="Setup" height="250px">
 
 ## Resources
 
